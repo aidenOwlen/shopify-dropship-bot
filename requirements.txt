@@ -1,0 +1,4 @@
+selenium
+urllib
+bs4
+PyQt4
